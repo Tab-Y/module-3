@@ -15,7 +15,7 @@ var selection = {
   numbers: ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
   special: [" ", "!", '"', "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", "-", ".", "/", ":", ";", "<", "=", ">", "?", "@", "[", "\u005c", "]", "^", "_", "`", "{", "|", "}", "~"],
 }
-console.log(selection.special[24])
+// console.log(selection.special[24])
 // ' !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~'
 // console.log(selection)
 // console.log(selection.capitalLetters)
