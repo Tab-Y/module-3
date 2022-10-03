@@ -15,6 +15,8 @@ n/a
 Generates a password randomly given the input of the user.
 Sets the parameters by prompts of upper case, lower case, numbers and/or special characters.
 
+https://tab-y.github.io/password-generator/
+
 ![website preview](./assets/images/password_generator.png)
 
 ## Credits
